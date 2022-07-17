@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T05:21:56.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uWG_JlA0Ee3BXTfJb34s" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T05:27:53.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rjdCsr03OYkYVvDDxef_" version="20.1.1" type="github">
   <diagram id="D6cnaOc5WCBr1gk6dB1F" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-4" value="Bodelningslikvid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-4" value="Betala. Bodelningslikvid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4qMdnJ5i7SVLYjdUpiAE-5" value="Värdering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,10 +55,10 @@
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-19" value="Lånelöfte Kristian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-19" value="Lånelöfte Kristian.&lt;br&gt;SBAB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-20" value="Länelöfte Annika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-20" value="Lånelöfte Annika. SBAB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4qMdnJ5i7SVLYjdUpiAE-21" value="Lägenhetsköp Annika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,6 +107,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="410" as="sourcePoint" />
             <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-31" value="Sparade pengar SHB&lt;br&gt;Kristian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4qMdnJ5i7SVLYjdUpiAE-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="4qMdnJ5i7SVLYjdUpiAE-4" target="4qMdnJ5i7SVLYjdUpiAE-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
